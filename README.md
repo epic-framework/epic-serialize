@@ -1,5 +1,5 @@
 # Epic serialize - Easy Python objects serialization
-[![Epic-serialize CI](https://github.com/Cybereason/epic-serialize/actions/workflows/ci.yml/badge.svg)](https://github.com/Cybereason/epic-serialize/actions/workflows/ci.yml)
+[![Epic-serialize CI](https://github.com/epic-framework/epic-serialize/actions/workflows/ci.yml/badge.svg)](https://github.com/epic-framework/epic-serialize/actions/workflows/ci.yml)
 
 ## What is it?
 
