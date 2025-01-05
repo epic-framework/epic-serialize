@@ -17,10 +17,6 @@ from epic.serialize.compressors.lz4 import Lz4Compressor
 from epic.serialize.spoc import SpocReader, SpocWriter, SpocError
 
 
-# explicit string (not calculated automatically), for testing
-MODULE_NAME = 'epic.serialize.tests.test_spoc'
-
-
 SERIALIZATIONS = list(filter(lambda x: isinstance(x, str), SerializerRegistrar.REGISTRAR.keys()))
 COMPRESSIONS = list(filter(lambda x: isinstance(x, str), CompressorRegistrar.REGISTRAR.keys()))
 
